@@ -1,12 +1,36 @@
-# React + Vite
+# 🍕 Fast React Pizza Co.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project for a fictional pizza company. This project displays a dynamic menu with item details, availability, and an order option. Built as part of the **React course by Jonas Schmedtmann on Udemy**.
 
-Currently, two official plugins are available:
+![Screenshot](./src/assets/screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Features
 
-## Expanding the ESLint configuration
+- Built using **React**
+- Component-based structure
+- Dynamic rendering of pizza data
+- Conditional rendering for sold-out items
+- Responsive layout with clean UI
+- Simple and clear styling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📚 What I Learned
+
+Through this project, I practiced and learned:
+- JSX and component composition
+- Props and dynamic data rendering
+- Conditional rendering using JavaScript logic
+- Basic project structure and file organization in React
+- Working with static assets like images
+- Managing reusable UI components
+
+## 🛠️ Tech Stack
+
+- React (via `create-react-app`)
+- HTML & CSS
+- JavaScript (ES6+)
+
+## 🧑‍🏫 Course Info
+
+This project is part of the following Udemy course:
+
+**[React - The Complete Guide by Jonas Schmedtmann](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)**
